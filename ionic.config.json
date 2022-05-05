@@ -1,0 +1,7 @@
+{
+  "name": "padariaApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
